@@ -1,4 +1,5 @@
 
+// Classe de produtos oferecidos no estacionamento como lavagem de carro, abastecimento, troca de oleo
 public class Produto {
 
 	private double peso;
